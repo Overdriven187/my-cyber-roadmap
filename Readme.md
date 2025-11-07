@@ -22,7 +22,7 @@ Currently im learning:
 as of now this is how everything looks like. still a mess and a long way to go. but Rome wasnt built in a day :)
 ## Future Plans
 Future plans include but are not limited to:
-- Learning CLang in the sense of what is needed for CyberSec
+- Learning CLang in the sense of what is needed for CyberSec (bufferoverflow, general concepts of bugs etc.)
 - Completing certifications such as CompTIA A+ Network+ and Security+
 maybe also CCNA
 - Completing Python for Scripting and Automation 
